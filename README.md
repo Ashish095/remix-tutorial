@@ -36,3 +36,6 @@ Make sure to deploy the output of `remix build`
 
 - `build/server`
 - `build/client`
+
+  <img width="1407" alt="image" src="https://github.com/user-attachments/assets/3480c6a9-08e1-43a3-940d-dea7a4cdb9fe" />
+
